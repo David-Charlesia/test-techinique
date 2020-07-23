@@ -3,4 +3,4 @@ CREATE TABLE STUDENT (
   last_name VARCHAR(25),
   num_etud INTEGER(10),
   PRIMARY KEY (num_etud)
-)
+);

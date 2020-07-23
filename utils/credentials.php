@@ -1,6 +1,6 @@
 <?php
 //à définir
-$dns='';
-$login='';
-$mdp='';
+$host='mysql:host=localhost;dbname=bdd';
+$username='root';
+$password='';
  ?>
