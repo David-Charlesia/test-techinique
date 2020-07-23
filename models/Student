@@ -1,0 +1,19 @@
+<?php
+  /**
+   *
+   */
+  class Student
+  {
+    private FirstName;
+    private LastName;
+    private NumEtud;
+
+    function __construct($firstname,$lastname,$numetud)
+    {
+      $this->FirstName=$firstname;
+      $this->LastName=$lastname;
+      $this->NumEtud=$numetud;
+    }
+  }
+
+ ?>
